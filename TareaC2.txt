@@ -1,3 +1,7 @@
 Buen día estoy probando otra  manera de hacer esto 
 Esta linea de texto fue agregada desde el repositorio remoto
+<<<<<<< Updated upstream
 Esta es la segunda modificación desde el repositorio  remoto
+=======
+Cambio Uno desde El archivo Local
+>>>>>>> Stashed changes
